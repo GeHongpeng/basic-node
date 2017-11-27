@@ -25,5 +25,3 @@ and istanbul.
 
 ### CI Coverage Report
 ![CI Coverage Report](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/coverage.jpg)
-
-### Test
